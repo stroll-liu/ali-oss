@@ -1,0 +1,30 @@
+{
+  "name": "@stroll/ali-oss",
+  "version": "0.0.1",
+  "description": "阿里 OSS 上传",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "crypto-js": "^4.0.0",
+    "js-base64": "^2.5.2",
+    "plupload": "^2.3.6"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stroll-liu/ali-oss.git"
+  },
+  "keywords": [
+    "vue",
+    "oss",
+    "upload"
+  ],
+  "author": "stroll-liu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stroll-liu/ali-oss/issues"
+  },
+  "homepage": "https://github.com/stroll-liu/ali-oss#readme",
+  "devDependencies": {}
+}
